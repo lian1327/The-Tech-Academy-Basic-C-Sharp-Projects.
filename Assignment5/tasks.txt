@@ -1,0 +1,5 @@
+Do a boolean comparison using a while statement.
+
+Do a boolean comparison using a do while statement.
+
+Add comments to each line or block of your code to explain what it does exactly, so that another developer could read and understand your code. 
