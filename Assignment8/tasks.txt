@@ -1,0 +1,15 @@
+Create a list of strings that has at least two identical strings in the list.
+
+Create a foreach loop that evaluates each item in the list, and displays a message showing the string and whether or not it has already appeared in the list. For example, if you had a list of letters: {“A”, “B”, “C”, “D”, “C”}, you could have the following print to the screen:
+
+A - this item is unique
+B - this item is unique
+C - this item is unique
+D - this item is unique
+C - this item is a duplicate
+
+Save and execute your code.
+
+Add comments to each line or block of your code to explain what it does exactly, so that another developer could read and understand your code.
+
+Upload all the code you wrote during every step of this assignment to your GitHub account and submit the link in the space below:
