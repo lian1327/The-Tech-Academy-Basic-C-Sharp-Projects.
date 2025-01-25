@@ -1,0 +1,14 @@
+Create a console app that does/includes the following:
+
+
+// Concatenates three strings.
+
+// Converts a string to uppercase.
+
+// Creates a Stringbuilder and builds a paragraph of text, one sentence at a time.
+
+// Add comments to each line or block of your code to explain what it does exactly, so that another developer could read and understand your code.
+
+// Upload your code to GitHub.
+
+// Note: The cod
