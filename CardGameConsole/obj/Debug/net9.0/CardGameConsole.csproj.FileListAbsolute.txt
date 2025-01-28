@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\GIT PROJECTS\The-Tech-Academy-Basic-C-Sharp-Projects\CardGameConsole\bin\Debug\net9.0\CardGameConsole.exe
+C:\Users\User\Desktop\GIT PROJECTS\The-Tech-Academy-Basic-C-Sharp-Projects\CardGameConsole\bin\Debug\net9.0\CardGameConsole.deps.json
+C:\Users\User\Desktop\GIT PROJECTS\The-Tech-Academy-Basic-C-Sharp-Projects\CardGameConsole\bin\Debug\net9.0\CardGameConsole.runtimeconfig.json
+C:\Users\User\Desktop\GIT PROJECTS\The-Tech-Academy-Basic-C-Sharp-Projects\CardGameConsole\bin\Debug\net9.0\CardGameConsole.dll
+C:\Users\User\Desktop\GIT PROJECTS\The-Tech-Academy-Basic-C-Sharp-Projects\CardGameConsole\bin\Debug\net9.0\CardGameConsole.pdb
+C:\Users\User\Desktop\GIT PROJECTS\The-Tech-Academy-Basic-C-Sharp-Projects\CardGameConsole\obj\Debug\net9.0\CardGameConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\GIT PROJECTS\The-Tech-Academy-Basic-C-Sharp-Projects\CardGameConsole\obj\Debug\net9.0\CardGameConsole.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\GIT PROJECTS\The-Tech-Academy-Basic-C-Sharp-Projects\CardGameConsole\obj\Debug\net9.0\CardGameConsole.AssemblyInfo.cs
+C:\Users\User\Desktop\GIT PROJECTS\The-Tech-Academy-Basic-C-Sharp-Projects\CardGameConsole\obj\Debug\net9.0\CardGameConsole.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\GIT PROJECTS\The-Tech-Academy-Basic-C-Sharp-Projects\CardGameConsole\obj\Debug\net9.0\CardGameConsole.sourcelink.json
+C:\Users\User\Desktop\GIT PROJECTS\The-Tech-Academy-Basic-C-Sharp-Projects\CardGameConsole\obj\Debug\net9.0\CardGameConsole.dll
+C:\Users\User\Desktop\GIT PROJECTS\The-Tech-Academy-Basic-C-Sharp-Projects\CardGameConsole\obj\Debug\net9.0\refint\CardGameConsole.dll
+C:\Users\User\Desktop\GIT PROJECTS\The-Tech-Academy-Basic-C-Sharp-Projects\CardGameConsole\obj\Debug\net9.0\CardGameConsole.pdb
+C:\Users\User\Desktop\GIT PROJECTS\The-Tech-Academy-Basic-C-Sharp-Projects\CardGameConsole\obj\Debug\net9.0\CardGameConsole.genruntimeconfig.cache
+C:\Users\User\Desktop\GIT PROJECTS\The-Tech-Academy-Basic-C-Sharp-Projects\CardGameConsole\obj\Debug\net9.0\ref\CardGameConsole.dll
