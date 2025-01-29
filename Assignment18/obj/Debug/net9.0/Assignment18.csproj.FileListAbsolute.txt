@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\GIT PROJECTS\The-Tech-Academy-Basic-C-Sharp-Projects\Assignment18\bin\Debug\net9.0\Assignment18.exe
+C:\Users\User\Desktop\GIT PROJECTS\The-Tech-Academy-Basic-C-Sharp-Projects\Assignment18\bin\Debug\net9.0\Assignment18.deps.json
+C:\Users\User\Desktop\GIT PROJECTS\The-Tech-Academy-Basic-C-Sharp-Projects\Assignment18\bin\Debug\net9.0\Assignment18.runtimeconfig.json
+C:\Users\User\Desktop\GIT PROJECTS\The-Tech-Academy-Basic-C-Sharp-Projects\Assignment18\bin\Debug\net9.0\Assignment18.dll
+C:\Users\User\Desktop\GIT PROJECTS\The-Tech-Academy-Basic-C-Sharp-Projects\Assignment18\bin\Debug\net9.0\Assignment18.pdb
+C:\Users\User\Desktop\GIT PROJECTS\The-Tech-Academy-Basic-C-Sharp-Projects\Assignment18\obj\Debug\net9.0\Assignment18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\GIT PROJECTS\The-Tech-Academy-Basic-C-Sharp-Projects\Assignment18\obj\Debug\net9.0\Assignment18.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\GIT PROJECTS\The-Tech-Academy-Basic-C-Sharp-Projects\Assignment18\obj\Debug\net9.0\Assignment18.AssemblyInfo.cs
+C:\Users\User\Desktop\GIT PROJECTS\The-Tech-Academy-Basic-C-Sharp-Projects\Assignment18\obj\Debug\net9.0\Assignment18.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\GIT PROJECTS\The-Tech-Academy-Basic-C-Sharp-Projects\Assignment18\obj\Debug\net9.0\Assignment18.sourcelink.json
+C:\Users\User\Desktop\GIT PROJECTS\The-Tech-Academy-Basic-C-Sharp-Projects\Assignment18\obj\Debug\net9.0\Assignment18.dll
+C:\Users\User\Desktop\GIT PROJECTS\The-Tech-Academy-Basic-C-Sharp-Projects\Assignment18\obj\Debug\net9.0\refint\Assignment18.dll
+C:\Users\User\Desktop\GIT PROJECTS\The-Tech-Academy-Basic-C-Sharp-Projects\Assignment18\obj\Debug\net9.0\Assignment18.pdb
+C:\Users\User\Desktop\GIT PROJECTS\The-Tech-Academy-Basic-C-Sharp-Projects\Assignment18\obj\Debug\net9.0\Assignment18.genruntimeconfig.cache
+C:\Users\User\Desktop\GIT PROJECTS\The-Tech-Academy-Basic-C-Sharp-Projects\Assignment18\obj\Debug\net9.0\ref\Assignment18.dll
