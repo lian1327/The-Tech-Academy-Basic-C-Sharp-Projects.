@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\GIT PROJECTS\The-Tech-Academy-Basic-C-Sharp-Projects\GameConsoleProject\Casino\bin\Debug\net9.0\Casino.exe
+C:\Users\User\Desktop\GIT PROJECTS\The-Tech-Academy-Basic-C-Sharp-Projects\GameConsoleProject\Casino\bin\Debug\net9.0\Casino.deps.json
+C:\Users\User\Desktop\GIT PROJECTS\The-Tech-Academy-Basic-C-Sharp-Projects\GameConsoleProject\Casino\bin\Debug\net9.0\Casino.runtimeconfig.json
+C:\Users\User\Desktop\GIT PROJECTS\The-Tech-Academy-Basic-C-Sharp-Projects\GameConsoleProject\Casino\bin\Debug\net9.0\Casino.dll
+C:\Users\User\Desktop\GIT PROJECTS\The-Tech-Academy-Basic-C-Sharp-Projects\GameConsoleProject\Casino\bin\Debug\net9.0\Casino.pdb
+C:\Users\User\Desktop\GIT PROJECTS\The-Tech-Academy-Basic-C-Sharp-Projects\GameConsoleProject\Casino\obj\Debug\net9.0\Casino.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\GIT PROJECTS\The-Tech-Academy-Basic-C-Sharp-Projects\GameConsoleProject\Casino\obj\Debug\net9.0\Casino.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\GIT PROJECTS\The-Tech-Academy-Basic-C-Sharp-Projects\GameConsoleProject\Casino\obj\Debug\net9.0\Casino.AssemblyInfo.cs
+C:\Users\User\Desktop\GIT PROJECTS\The-Tech-Academy-Basic-C-Sharp-Projects\GameConsoleProject\Casino\obj\Debug\net9.0\Casino.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\GIT PROJECTS\The-Tech-Academy-Basic-C-Sharp-Projects\GameConsoleProject\Casino\obj\Debug\net9.0\Casino.sourcelink.json
+C:\Users\User\Desktop\GIT PROJECTS\The-Tech-Academy-Basic-C-Sharp-Projects\GameConsoleProject\Casino\obj\Debug\net9.0\Casino.dll
+C:\Users\User\Desktop\GIT PROJECTS\The-Tech-Academy-Basic-C-Sharp-Projects\GameConsoleProject\Casino\obj\Debug\net9.0\refint\Casino.dll
+C:\Users\User\Desktop\GIT PROJECTS\The-Tech-Academy-Basic-C-Sharp-Projects\GameConsoleProject\Casino\obj\Debug\net9.0\Casino.pdb
+C:\Users\User\Desktop\GIT PROJECTS\The-Tech-Academy-Basic-C-Sharp-Projects\GameConsoleProject\Casino\obj\Debug\net9.0\Casino.genruntimeconfig.cache
+C:\Users\User\Desktop\GIT PROJECTS\The-Tech-Academy-Basic-C-Sharp-Projects\GameConsoleProject\Casino\obj\Debug\net9.0\ref\Casino.dll

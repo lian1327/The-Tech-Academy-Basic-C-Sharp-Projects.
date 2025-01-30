@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\GIT PROJECTS\The-Tech-Academy-Basic-C-Sharp-Projects\GameConsoleProject\TwentyOne\obj\Debug\net9.0\TwentyOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\GIT PROJECTS\The-Tech-Academy-Basic-C-Sharp-Projects\GameConsoleProject\TwentyOne\obj\Debug\net9.0\TwentyOne.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\GIT PROJECTS\The-Tech-Academy-Basic-C-Sharp-Projects\GameConsoleProject\TwentyOne\obj\Debug\net9.0\TwentyOne.AssemblyInfo.cs
+C:\Users\User\Desktop\GIT PROJECTS\The-Tech-Academy-Basic-C-Sharp-Projects\GameConsoleProject\TwentyOne\obj\Debug\net9.0\TwentyOne.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\GIT PROJECTS\The-Tech-Academy-Basic-C-Sharp-Projects\GameConsoleProject\TwentyOne\obj\Debug\net9.0\TwentyOne.sourcelink.json
