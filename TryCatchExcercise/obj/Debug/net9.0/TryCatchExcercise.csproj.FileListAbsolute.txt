@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\GIT PROJECTS\The-Tech-Academy-Basic-C-Sharp-Projects\TryCatchExcercise\bin\Debug\net9.0\TryCatchExcercise.exe
+C:\Users\User\Desktop\GIT PROJECTS\The-Tech-Academy-Basic-C-Sharp-Projects\TryCatchExcercise\bin\Debug\net9.0\TryCatchExcercise.deps.json
+C:\Users\User\Desktop\GIT PROJECTS\The-Tech-Academy-Basic-C-Sharp-Projects\TryCatchExcercise\bin\Debug\net9.0\TryCatchExcercise.runtimeconfig.json
+C:\Users\User\Desktop\GIT PROJECTS\The-Tech-Academy-Basic-C-Sharp-Projects\TryCatchExcercise\bin\Debug\net9.0\TryCatchExcercise.dll
+C:\Users\User\Desktop\GIT PROJECTS\The-Tech-Academy-Basic-C-Sharp-Projects\TryCatchExcercise\bin\Debug\net9.0\TryCatchExcercise.pdb
+C:\Users\User\Desktop\GIT PROJECTS\The-Tech-Academy-Basic-C-Sharp-Projects\TryCatchExcercise\obj\Debug\net9.0\TryCatchExcercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\GIT PROJECTS\The-Tech-Academy-Basic-C-Sharp-Projects\TryCatchExcercise\obj\Debug\net9.0\TryCatchExcercise.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\GIT PROJECTS\The-Tech-Academy-Basic-C-Sharp-Projects\TryCatchExcercise\obj\Debug\net9.0\TryCatchExcercise.AssemblyInfo.cs
+C:\Users\User\Desktop\GIT PROJECTS\The-Tech-Academy-Basic-C-Sharp-Projects\TryCatchExcercise\obj\Debug\net9.0\TryCatchExcercise.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\GIT PROJECTS\The-Tech-Academy-Basic-C-Sharp-Projects\TryCatchExcercise\obj\Debug\net9.0\TryCatchExcercise.sourcelink.json
+C:\Users\User\Desktop\GIT PROJECTS\The-Tech-Academy-Basic-C-Sharp-Projects\TryCatchExcercise\obj\Debug\net9.0\TryCatchExcercise.dll
+C:\Users\User\Desktop\GIT PROJECTS\The-Tech-Academy-Basic-C-Sharp-Projects\TryCatchExcercise\obj\Debug\net9.0\refint\TryCatchExcercise.dll
+C:\Users\User\Desktop\GIT PROJECTS\The-Tech-Academy-Basic-C-Sharp-Projects\TryCatchExcercise\obj\Debug\net9.0\TryCatchExcercise.pdb
+C:\Users\User\Desktop\GIT PROJECTS\The-Tech-Academy-Basic-C-Sharp-Projects\TryCatchExcercise\obj\Debug\net9.0\TryCatchExcercise.genruntimeconfig.cache
+C:\Users\User\Desktop\GIT PROJECTS\The-Tech-Academy-Basic-C-Sharp-Projects\TryCatchExcercise\obj\Debug\net9.0\ref\TryCatchExcercise.dll
