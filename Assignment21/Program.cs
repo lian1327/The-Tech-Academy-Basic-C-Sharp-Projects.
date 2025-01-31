@@ -14,7 +14,7 @@ public class Program
         int hours;
         
         // Ensures the user input is a valid integer
-        while (!int.TryParse(userInput, out hours))
+        while (!int.TryParse(userInput, out hours)) 
         {
             Console.Write("Please enter a valid number: ");
             userInput = Console.ReadLine();
