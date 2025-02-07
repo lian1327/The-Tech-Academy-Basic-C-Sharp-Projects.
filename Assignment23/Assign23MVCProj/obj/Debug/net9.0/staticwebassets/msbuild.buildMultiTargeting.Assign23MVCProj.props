@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Assign23MVCProj.props" />
+</Project>

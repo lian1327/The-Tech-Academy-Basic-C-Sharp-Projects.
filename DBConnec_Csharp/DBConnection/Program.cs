@@ -6,7 +6,7 @@ class Program
     static void Main(string[] args)
     {
         // Connection string to connect to PostgreSQL
-        string connectionString = "Host=localhost;Username=user;Password=mypass;Database=SampleDB";
+        string connectionString = "Host=localhost;Port=5432;Username=postgres;Password=adminadmin;Database=SampleDB";
 
         // Create a connection to the PostgreSQL database
         using (var conn = new NpgsqlConnection(connectionString))
@@ -17,7 +17,7 @@ class Program
                 conn.Open();
 
                 // Create a SQL command
-                using (var cmd = new NpgsqlCommand("SELECT * FROM mytable", conn))
+                using (var cmd = new NpgsqlCommand("SELECT * FROM sample_table", conn))
                 {
                     // Execute the command and read the data
                     using (var reader = cmd.ExecuteReader())

@@ -1,0 +1,47 @@
+@model Assign23MVCProj.Models.Insuree
+
+<h2>Create Insuree</h2>
+
+<form asp-action="Create" method="post">
+    <div class="form-group">
+        <label asp-for="FirstName"></label>
+        <input asp-for="FirstName" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="LastName"></label>
+        <input asp-for="LastName" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="Email"></label>
+        <input asp-for="Email" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="Age"></label>
+        <input asp-for="Age" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="CarYear"></label>
+        <input asp-for="CarYear" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="CarMake"></label>
+        <input asp-for="CarMake" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="CarModel"></label>
+        <input asp-for="CarModel" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="SpeedingTickets"></label>
+        <input asp-for="SpeedingTickets" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="HasDUI"></label>
+        <input asp-for="HasDUI" type="checkbox" class="form-check-input" />
+    </div>
+    <div class="form-group">
+        <label asp-for="IsFullCoverage"></label>
+        <input asp-for="IsFullCoverage" type="checkbox" class="form-check-input" />
+    </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>
