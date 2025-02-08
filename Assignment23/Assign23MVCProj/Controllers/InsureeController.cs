@@ -1,6 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
 using Assign23MVCProj.Models;
 using Assign23MVCProj.Data;
+using System.Linq;
 
 namespace Assign23MVCProj.Controllers
 {
@@ -12,13 +13,30 @@ namespace Assign23MVCProj.Controllers
         {
             _context = context;
         }
+
+        [HttpGet]
+        public IActionResult Admin()
+        {
+            var insurees = _context.Insurees.ToList();
+            return View(insurees);
+        }
+
         [HttpGet]
         public IActionResult Create()
         {
             return View();
         }
 
-        public decimal CalculateQuote(Insuree insuree)
+        [HttpPost]
+        public IActionResult Create(Insuree insuree)
+        {
+            insuree.Quote = CalculateQuote(insuree);
+            _context.Insurees.Add(insuree);
+            _context.SaveChanges();
+            return RedirectToAction("Admin");
+        }
+
+        private decimal CalculateQuote(Insuree insuree)
         {
             decimal quote = 50;
 
@@ -73,7 +91,5 @@ namespace Assign23MVCProj.Controllers
 
             return quote;
         }
-
-        // Add methods for Create and Admin views
     }
 }

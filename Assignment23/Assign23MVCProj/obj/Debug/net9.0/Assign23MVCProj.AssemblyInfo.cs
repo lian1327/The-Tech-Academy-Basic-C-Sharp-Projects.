@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Assign23MVCProj")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0851d97c18295919864c82451e9cbef3130873c6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a50d5508b58ff763171412e35ed9585dc804d7ff")]
 [assembly: System.Reflection.AssemblyProductAttribute("Assign23MVCProj")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Assign23MVCProj")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
